@@ -10,12 +10,12 @@ This project implements a fully automatic parking lot system which will keep tra
 ## How to run the program
 
 ### Ubuntu/Mac
-step-1 : open terminal
-step-2 : clone or copy the program folder and navigate the terminal to that folder
-step-3 : copy your custom input file into program folder or edit the existing input.txt file
-step-4 : To run execute this command $g++ ParkingLot.cpp -o output 
-step-5 : $./output.exe input.txt  (here input.txt should your custom input file or already existing input file in the folder)
-step-6 : you will the output of the given input file in the ternimal
+#### step-1 : open terminal
+#### step-2 : clone or copy the program folder and navigate the terminal to that folder
+#### step-3 : copy your custom input file into program folder or edit the existing input.txt file
+#### step-4 : To run execute this command $g++ ParkingLot.cpp -o output 
+#### step-5 : $./output.exe input.txt  (here input.txt should your custom input file or already existing input file in the folder)
+#### step-6 : you will the output of the given input file in the ternimal
 
 
 
